@@ -109,4 +109,4 @@ The base grade will be up to 80, based on how you attempted the task:
 
 ## Questions?
 
-Please post your questions on Canvas.
+Please post your questions on [Canvas Discussion](https://canvas.cmu.edu/courses/32856/discussion_topics/509909).
