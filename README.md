@@ -28,7 +28,7 @@ In this assignment, you will:
 
 Pick from one of the six crowdsourcing papers to read in detail. You will replicate its baseline when you do prompting in the notebook (see next section).
 
-- **Please [use this Google Sheet](https://docs.google.com/spreadsheets/d/1gKnCvzuWH9msP3JsxZPDtLfmExPrHR7mooqI-uqv5Fw/edit?usp=sharing) signup for the paper you are replicating**. Each paper can be signed up by up to four people, first come first serve.
+- **Please [use this Google Sheet](https://docs.google.com/spreadsheets/d/1qM66oZ5YcSjqifegoyNgl3LFMaCfFHgoPe8isgckbXA/edit?usp=sharing) signup for the paper you are replicating**. Each paper can be signed up by up to four people, first come first serve.
 - If none of these six look interesting to you, you can also pick your own paper. In that case, please email Sherry the paper link so I can approve it.
 
 ### 2. Set up the environment and code.
